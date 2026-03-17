@@ -114,7 +114,7 @@ int main() {
 
 ## Output:
 
-[Screenshot 2026-02-26 205715.pdf](https://github.com/user-attachments/files/25579893/Screenshot.2026-02-26.205715.pdf)
+<img width="687" height="598" alt="image" src="https://github.com/user-attachments/assets/bf755916-2e8c-4794-90e9-6beb5d00518a" />
 
 ## Result:
 The program is executed successfully
